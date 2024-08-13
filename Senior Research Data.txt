@@ -1,0 +1,1000 @@
+Iteration 1
+populating
+Indexing Time: 0.0004762000171467662 seconds
+Normalization to 2NF Time: 0.047819400031585246 seconds
+Horizontal Partitioning Time: 0.00041859998600557446 seconds
+Caching Time: 0.00013589998707175255 seconds
+Cost-based Optimization Time: 9.90999978967011e-05 seconds
+Cost-based Query Optimization Time: 0.0001487999688833952 seconds
+Heuristic Optimization Time: 8.240004535764456e-05 seconds
+Heuristic Query Optimization Time: 0.0001354999840259552 seconds
+Iteration 2
+populating
+Indexing Time: 0.00022190000163391232 seconds
+Normalization to 2NF Time: 0.04286980000324547 seconds
+Horizontal Partitioning Time: 0.0002891000476665795 seconds
+Caching Time: 8.11999780125916e-05 seconds
+Cost-based Optimization Time: 9.899999713525176e-05 seconds
+Cost-based Query Optimization Time: 0.0001227000029757619 seconds
+Heuristic Optimization Time: 4.67000063508749e-05 seconds
+Heuristic Query Optimization Time: 7.000000914558768e-05 seconds
+Iteration 3
+populating
+Indexing Time: 0.0002185999765060842 seconds
+Normalization to 2NF Time: 0.04557670000940561 seconds
+Horizontal Partitioning Time: 0.0002818999928422272 seconds
+Caching Time: 7.749994983896613e-05 seconds
+Cost-based Optimization Time: 9.42000187933445e-05 seconds
+Cost-based Query Optimization Time: 0.00011689995881170034 seconds
+Heuristic Optimization Time: 4.499999340623617e-05 seconds
+Heuristic Query Optimization Time: 6.709998706355691e-05 seconds
+Iteration 4
+populating
+Indexing Time: 0.00020640000002458692 seconds
+Normalization to 2NF Time: 0.04217369999969378 seconds
+Horizontal Partitioning Time: 0.0002998000127263367 seconds
+Caching Time: 8.209998486563563e-05 seconds
+Cost-based Optimization Time: 9.879999561235309e-05 seconds
+Cost-based Query Optimization Time: 0.00012069998774677515 seconds
+Heuristic Optimization Time: 4.539999645203352e-05 seconds
+Heuristic Query Optimization Time: 6.749999010935426e-05 seconds
+Iteration 5
+populating
+Indexing Time: 0.00029739999445155263 seconds
+Normalization to 2NF Time: 0.043845799984410405 seconds
+Horizontal Partitioning Time: 0.00028719997499138117 seconds
+Caching Time: 8.229998638853431e-05 seconds
+Cost-based Optimization Time: 0.00010240002302452922 seconds
+Cost-based Query Optimization Time: 0.00012250000145286322 seconds
+Heuristic Optimization Time: 4.5199994929134846e-05 seconds
+Heuristic Query Optimization Time: 6.720004603266716e-05 seconds
+Iteration 6
+populating
+Indexing Time: 0.00022869999520480633 seconds
+Normalization to 2NF Time: 0.04458640003576875 seconds
+Horizontal Partitioning Time: 0.0003237000200897455 seconds
+Caching Time: 8.899997919797897e-05 seconds
+Cost-based Optimization Time: 0.00010629999451339245 seconds
+Cost-based Query Optimization Time: 0.00013040000339969993 seconds
+Heuristic Optimization Time: 5.189998773857951e-05 seconds
+Heuristic Query Optimization Time: 7.840001489967108e-05 seconds
+Iteration 7
+populating
+Indexing Time: 0.00022200000239536166 seconds
+Normalization to 2NF Time: 0.04574420000426471 seconds
+Horizontal Partitioning Time: 0.0002921999548561871 seconds
+Caching Time: 7.860001642256975e-05 seconds
+Cost-based Optimization Time: 0.00010179996024817228 seconds
+Cost-based Query Optimization Time: 0.00012310000602155924 seconds
+Heuristic Optimization Time: 4.4700049329549074e-05 seconds
+Heuristic Query Optimization Time: 6.819999543949962e-05 seconds
+Iteration 8
+populating
+Indexing Time: 0.00022260000696405768 seconds
+Normalization to 2NF Time: 0.04353509994689375 seconds
+Horizontal Partitioning Time: 0.00028819998260587454 seconds
+Caching Time: 7.830001413822174e-05 seconds
+Cost-based Optimization Time: 9.44999628700316e-05 seconds
+Cost-based Query Optimization Time: 0.00011630001245066524 seconds
+Heuristic Optimization Time: 4.5900000259280205e-05 seconds
+Heuristic Query Optimization Time: 6.75999908708036e-05 seconds
+Iteration 9
+populating
+Indexing Time: 0.000242499983869493 seconds
+Normalization to 2NF Time: 0.04246119997696951 seconds
+Horizontal Partitioning Time: 0.000291300006210804 seconds
+Caching Time: 7.750000804662704e-05 seconds
+Cost-based Optimization Time: 9.380001574754715e-05 seconds
+Cost-based Query Optimization Time: 0.00011580000864341855 seconds
+Heuristic Optimization Time: 4.5599997974932194e-05 seconds
+Heuristic Query Optimization Time: 6.769999163225293e-05 seconds
+Iteration 10
+populating
+Indexing Time: 0.00023859995417296886 seconds
+Normalization to 2NF Time: 0.04446620005182922 seconds
+Horizontal Partitioning Time: 0.00030889996560290456 seconds
+Caching Time: 7.720000576227903e-05 seconds
+Cost-based Optimization Time: 9.390001650899649e-05 seconds
+Cost-based Query Optimization Time: 0.00011500000255182385 seconds
+Heuristic Optimization Time: 4.469999112188816e-05 seconds
+Heuristic Query Optimization Time: 7.080001523718238e-05 seconds
+Iteration 11
+populating
+Indexing Time: 0.0002297000028192997 seconds
+Normalization to 2NF Time: 0.0421473000315018 seconds
+Horizontal Partitioning Time: 0.000284800014924258 seconds
+Caching Time: 7.750000804662704e-05 seconds
+Cost-based Optimization Time: 9.370001498609781e-05 seconds
+Cost-based Query Optimization Time: 0.00011510000331327319 seconds
+Heuristic Optimization Time: 4.510005237534642e-05 seconds
+Heuristic Query Optimization Time: 6.699998630210757e-05 seconds
+Iteration 12
+populating
+Indexing Time: 0.0002759000053629279 seconds
+Normalization to 2NF Time: 0.04524959996342659 seconds
+Horizontal Partitioning Time: 0.00029279995942488313 seconds
+Caching Time: 7.800001185387373e-05 seconds
+Cost-based Optimization Time: 9.609997505322099e-05 seconds
+Cost-based Query Optimization Time: 0.00011790002463385463 seconds
+Heuristic Optimization Time: 7.130001904442906e-05 seconds
+Heuristic Query Optimization Time: 0.00010030000703409314 seconds
+Iteration 13
+populating
+Indexing Time: 0.000228599994443357 seconds
+Normalization to 2NF Time: 0.05067409999901429 seconds
+Horizontal Partitioning Time: 0.00028899998869746923 seconds
+Caching Time: 7.82000133767724e-05 seconds
+Cost-based Optimization Time: 9.889999637380242e-05 seconds
+Cost-based Query Optimization Time: 0.00012169999536126852 seconds
+Heuristic Optimization Time: 4.509999416768551e-05 seconds
+Heuristic Query Optimization Time: 6.769999163225293e-05 seconds
+Iteration 14
+populating
+Indexing Time: 0.0002272999845445156 seconds
+Normalization to 2NF Time: 0.043196899991016835 seconds
+Horizontal Partitioning Time: 0.000285100017208606 seconds
+Caching Time: 7.779995212331414e-05 seconds
+Cost-based Optimization Time: 9.430001955479383e-05 seconds
+Cost-based Query Optimization Time: 0.00011470000026747584 seconds
+Heuristic Optimization Time: 4.5599997974932194e-05 seconds
+Heuristic Query Optimization Time: 6.819999543949962e-05 seconds
+Iteration 15
+populating
+Indexing Time: 0.000228599994443357 seconds
+Normalization to 2NF Time: 0.042617500002961606 seconds
+Horizontal Partitioning Time: 0.0002962999860756099 seconds
+Caching Time: 7.720000576227903e-05 seconds
+Cost-based Optimization Time: 9.549997048452497e-05 seconds
+Cost-based Query Optimization Time: 0.0001162000116892159 seconds
+Heuristic Optimization Time: 4.47999918833375e-05 seconds
+Heuristic Query Optimization Time: 6.739998934790492e-05 seconds
+Iteration 16
+populating
+Indexing Time: 0.0002550000208429992 seconds
+Normalization to 2NF Time: 0.04332629998680204 seconds
+Horizontal Partitioning Time: 0.00028760003624483943 seconds
+Caching Time: 7.890001870691776e-05 seconds
+Cost-based Optimization Time: 9.509996743872762e-05 seconds
+Cost-based Query Optimization Time: 0.00011660001473501325 seconds
+Heuristic Optimization Time: 4.460004856809974e-05 seconds
+Heuristic Query Optimization Time: 6.649998249486089e-05 seconds
+Iteration 17
+populating
+Indexing Time: 0.0002597999991849065 seconds
+Normalization to 2NF Time: 0.04767850000644103 seconds
+Horizontal Partitioning Time: 0.0008769999840296805 seconds
+Caching Time: 0.00017089996254071593 seconds
+Cost-based Optimization Time: 0.0001873000292107463 seconds
+Cost-based Query Optimization Time: 0.0002308000111952424 seconds
+Heuristic Optimization Time: 7.609999738633633e-05 seconds
+Heuristic Query Optimization Time: 0.00012659997446462512 seconds
+Iteration 18
+populating
+Indexing Time: 0.00028139998903498054 seconds
+Normalization to 2NF Time: 0.041715500003192574 seconds
+Horizontal Partitioning Time: 0.000285100017208606 seconds
+Caching Time: 7.90000194683671e-05 seconds
+Cost-based Optimization Time: 9.569997200742364e-05 seconds
+Cost-based Query Optimization Time: 0.0001162000116892159 seconds
+Heuristic Optimization Time: 4.529999569058418e-05 seconds
+Heuristic Query Optimization Time: 6.739998934790492e-05 seconds
+Iteration 19
+populating
+Indexing Time: 0.0002240000176243484 seconds
+Normalization to 2NF Time: 0.04277399997226894 seconds
+Horizontal Partitioning Time: 0.00028440001187846065 seconds
+Caching Time: 7.690000347793102e-05 seconds
+Cost-based Optimization Time: 9.329995373263955e-05 seconds
+Cost-based Query Optimization Time: 0.00011379999341443181 seconds
+Heuristic Optimization Time: 4.6600005589425564e-05 seconds
+Heuristic Query Optimization Time: 6.86999992467463e-05 seconds
+Iteration 20
+populating
+Indexing Time: 0.00023479998344555497 seconds
+Normalization to 2NF Time: 0.04294989997288212 seconds
+Horizontal Partitioning Time: 0.00029719999292865396 seconds
+Caching Time: 7.860001642256975e-05 seconds
+Cost-based Optimization Time: 9.430001955479383e-05 seconds
+Cost-based Query Optimization Time: 0.00011550000635907054 seconds
+Heuristic Optimization Time: 4.529999569058418e-05 seconds
+Heuristic Query Optimization Time: 6.73000467941165e-05 seconds
+Iteration 21
+populating
+Indexing Time: 0.00022030004765838385 seconds
+Normalization to 2NF Time: 0.044510999985504895 seconds
+Horizontal Partitioning Time: 0.0004172999761067331 seconds
+Caching Time: 0.00013379997108131647 seconds
+Cost-based Optimization Time: 0.00026649999199435115 seconds
+Cost-based Query Optimization Time: 0.0003218000056222081 seconds
+Heuristic Optimization Time: 8.999998681247234e-05 seconds
+Heuristic Query Optimization Time: 0.00014919997192919254 seconds
+Iteration 22
+populating
+Indexing Time: 0.00022950000129640102 seconds
+Normalization to 2NF Time: 0.04633530002320185 seconds
+Horizontal Partitioning Time: 0.00028739997651427984 seconds
+Caching Time: 7.98000255599618e-05 seconds
+Cost-based Optimization Time: 9.679998038336635e-05 seconds
+Cost-based Query Optimization Time: 0.0001191999763250351 seconds
+Heuristic Optimization Time: 4.759995499625802e-05 seconds
+Heuristic Query Optimization Time: 7.200002437457442e-05 seconds
+Iteration 23
+populating
+Indexing Time: 0.00027760001830756664 seconds
+Normalization to 2NF Time: 0.04257119999965653 seconds
+Horizontal Partitioning Time: 0.0002867000293917954 seconds
+Caching Time: 7.730000652372837e-05 seconds
+Cost-based Optimization Time: 9.450002107769251e-05 seconds
+Cost-based Query Optimization Time: 0.00011629995424300432 seconds
+Heuristic Optimization Time: 4.4899992644786835e-05 seconds
+Heuristic Query Optimization Time: 6.67999847792089e-05 seconds
+Iteration 24
+populating
+Indexing Time: 0.0002466000150889158 seconds
+Normalization to 2NF Time: 0.04226469999412075 seconds
+Horizontal Partitioning Time: 0.0003200999926775694 seconds
+Caching Time: 7.660000119358301e-05 seconds
+Cost-based Optimization Time: 9.569997200742364e-05 seconds
+Cost-based Query Optimization Time: 0.00011640001321211457 seconds
+Heuristic Optimization Time: 4.520005313679576e-05 seconds
+Heuristic Query Optimization Time: 6.749999010935426e-05 seconds
+Iteration 25
+populating
+Indexing Time: 0.0002502999850548804 seconds
+Normalization to 2NF Time: 0.041672600025776774 seconds
+Horizontal Partitioning Time: 0.0002797000342980027 seconds
+Caching Time: 7.76999513618648e-05 seconds
+Cost-based Optimization Time: 9.450002107769251e-05 seconds
+Cost-based Query Optimization Time: 0.00011470000026747584 seconds
+Heuristic Optimization Time: 4.539999645203352e-05 seconds
+Heuristic Query Optimization Time: 6.699998630210757e-05 seconds
+Iteration 26
+populating
+Indexing Time: 0.00026220001745969057 seconds
+Normalization to 2NF Time: 0.04455200000666082 seconds
+Horizontal Partitioning Time: 0.0002919000107795 seconds
+Caching Time: 7.989996811375022e-05 seconds
+Cost-based Optimization Time: 9.919999865815043e-05 seconds
+Cost-based Query Optimization Time: 0.00012089998926967382 seconds
+Heuristic Optimization Time: 4.5300053898245096e-05 seconds
+Heuristic Query Optimization Time: 6.739998934790492e-05 seconds
+Iteration 27
+populating
+Indexing Time: 0.00020650000078603625 seconds
+Normalization to 2NF Time: 0.04285259998869151 seconds
+Horizontal Partitioning Time: 0.0002840999513864517 seconds
+Caching Time: 7.82000133767724e-05 seconds
+Cost-based Optimization Time: 9.44999628700316e-05 seconds
+Cost-based Query Optimization Time: 0.00011530000483617187 seconds
+Heuristic Optimization Time: 4.47999918833375e-05 seconds
+Heuristic Query Optimization Time: 6.620003841817379e-05 seconds
+Iteration 28
+populating
+Indexing Time: 0.00021590001415461302 seconds
+Normalization to 2NF Time: 0.04552339995279908 seconds
+Horizontal Partitioning Time: 0.0002893999917432666 seconds
+Caching Time: 7.720000576227903e-05 seconds
+Cost-based Optimization Time: 9.460002183914185e-05 seconds
+Cost-based Query Optimization Time: 0.00011559994891285896 seconds
+Heuristic Optimization Time: 4.740001168102026e-05 seconds
+Heuristic Query Optimization Time: 6.920000305399299e-05 seconds
+Iteration 29
+populating
+Indexing Time: 0.00023020000662654638 seconds
+Normalization to 2NF Time: 0.04255309997824952 seconds
+Horizontal Partitioning Time: 0.00028420001035556197 seconds
+Caching Time: 7.800001185387373e-05 seconds
+Cost-based Optimization Time: 9.569997200742364e-05 seconds
+Cost-based Query Optimization Time: 0.0001162000116892159 seconds
+Heuristic Optimization Time: 4.5900000259280205e-05 seconds
+Heuristic Query Optimization Time: 6.769999163225293e-05 seconds
+Iteration 30
+populating
+Indexing Time: 0.0002158999559469521 seconds
+Normalization to 2NF Time: 0.0437353000161238 seconds
+Horizontal Partitioning Time: 0.00028529996052384377 seconds
+Caching Time: 7.750000804662704e-05 seconds
+Cost-based Optimization Time: 9.399995906278491e-05 seconds
+Cost-based Query Optimization Time: 0.00011470000026747584 seconds
+Heuristic Optimization Time: 5.519995465874672e-05 seconds
+Heuristic Query Optimization Time: 8.319999324157834e-05 seconds
+Iteration 31
+populating
+Indexing Time: 0.0002403000253252685 seconds
+Normalization to 2NF Time: 0.0448276000097394 seconds
+Horizontal Partitioning Time: 0.00028849998489022255 seconds
+Caching Time: 7.690000347793102e-05 seconds
+Cost-based Optimization Time: 9.620003402233124e-05 seconds
+Cost-based Query Optimization Time: 0.00011809996794909239 seconds
+Heuristic Optimization Time: 5.390000296756625e-05 seconds
+Heuristic Query Optimization Time: 8.239998714998364e-05 seconds
+Iteration 32
+populating
+Indexing Time: 0.0002725999802350998 seconds
+Normalization to 2NF Time: 0.04262589995050803 seconds
+Horizontal Partitioning Time: 0.0002875999780371785 seconds
+Caching Time: 7.720000576227903e-05 seconds
+Cost-based Optimization Time: 9.600003249943256e-05 seconds
+Cost-based Query Optimization Time: 0.0001173000200651586 seconds
+Heuristic Optimization Time: 4.509999416768551e-05 seconds
+Heuristic Query Optimization Time: 6.749999010935426e-05 seconds
+Iteration 33
+populating
+Indexing Time: 0.00024369999300688505 seconds
+Normalization to 2NF Time: 0.04313850001199171 seconds
+Horizontal Partitioning Time: 0.0002891999902203679 seconds
+Caching Time: 7.730000652372837e-05 seconds
+Cost-based Optimization Time: 9.71999834291637e-05 seconds
+Cost-based Query Optimization Time: 0.00011840002844110131 seconds
+Heuristic Optimization Time: 4.5199994929134846e-05 seconds
+Heuristic Query Optimization Time: 6.659998325631022e-05 seconds
+Iteration 34
+populating
+Indexing Time: 0.00020780001068487763 seconds
+Normalization to 2NF Time: 0.04378010000800714 seconds
+Horizontal Partitioning Time: 0.00029830000130459666 seconds
+Caching Time: 8.09000339359045e-05 seconds
+Cost-based Optimization Time: 0.00010090001160278916 seconds
+Cost-based Query Optimization Time: 0.0001230000052601099 seconds
+Heuristic Optimization Time: 4.469999112188816e-05 seconds
+Heuristic Query Optimization Time: 6.739998934790492e-05 seconds
+Iteration 35
+populating
+Indexing Time: 0.00021349999587982893 seconds
+Normalization to 2NF Time: 0.04355750000104308 seconds
+Horizontal Partitioning Time: 0.0002847999567165971 seconds
+Caching Time: 7.750000804662704e-05 seconds
+Cost-based Optimization Time: 9.470002260059118e-05 seconds
+Cost-based Query Optimization Time: 0.00011510000331327319 seconds
+Heuristic Optimization Time: 4.39999857917428e-05 seconds
+Heuristic Query Optimization Time: 6.509997183457017e-05 seconds
+Iteration 36
+populating
+Indexing Time: 0.00021930004004389048 seconds
+Normalization to 2NF Time: 0.04142720001982525 seconds
+Horizontal Partitioning Time: 0.002579699968919158 seconds
+Caching Time: 8.299999171867967e-05 seconds
+Cost-based Optimization Time: 9.839999256655574e-05 seconds
+Cost-based Query Optimization Time: 0.00012369995238259435 seconds
+Heuristic Optimization Time: 4.640000406652689e-05 seconds
+Heuristic Query Optimization Time: 6.940000457689166e-05 seconds
+Iteration 37
+populating
+Indexing Time: 0.0003996000159531832 seconds
+Normalization to 2NF Time: 0.04482849995838478 seconds
+Horizontal Partitioning Time: 0.00029669998912140727 seconds
+Caching Time: 7.790001109242439e-05 seconds
+Cost-based Optimization Time: 9.410001803189516e-05 seconds
+Cost-based Query Optimization Time: 0.00011419999646022916 seconds
+Heuristic Optimization Time: 4.4700049329549074e-05 seconds
+Heuristic Query Optimization Time: 6.649998249486089e-05 seconds
+Iteration 38
+populating
+Indexing Time: 0.0002161000156775117 seconds
+Normalization to 2NF Time: 0.043325799982994795 seconds
+Horizontal Partitioning Time: 0.00028519995976239443 seconds
+Caching Time: 7.800001185387373e-05 seconds
+Cost-based Optimization Time: 0.00011729996185749769 seconds
+Cost-based Query Optimization Time: 0.00014189997455105186 seconds
+Heuristic Optimization Time: 5.069997860118747e-05 seconds
+Heuristic Query Optimization Time: 7.60000548325479e-05 seconds
+Iteration 39
+populating
+Indexing Time: 0.00022139999782666564 seconds
+Normalization to 2NF Time: 0.04438620002474636 seconds
+Horizontal Partitioning Time: 0.00031289999606087804 seconds
+Caching Time: 8.540000999346375e-05 seconds
+Cost-based Optimization Time: 0.00010200001997873187 seconds
+Cost-based Query Optimization Time: 0.00012420001439750195 seconds
+Heuristic Optimization Time: 4.75000124424696e-05 seconds
+Heuristic Query Optimization Time: 7.250002818182111e-05 seconds
+Iteration 40
+populating
+Indexing Time: 0.00022550002904608846 seconds
+Normalization to 2NF Time: 0.04373839998152107 seconds
+Horizontal Partitioning Time: 0.0002823999966494739 seconds
+Caching Time: 7.720000576227903e-05 seconds
+Cost-based Optimization Time: 9.349995525553823e-05 seconds
+Cost-based Query Optimization Time: 0.0001145999995060265 seconds
+Heuristic Optimization Time: 4.4599990360438824e-05 seconds
+Heuristic Query Optimization Time: 6.849999772384763e-05 seconds
+Iteration 41
+populating
+Indexing Time: 0.00021550001110881567 seconds
+Normalization to 2NF Time: 0.04435019998345524 seconds
+Horizontal Partitioning Time: 0.00028550002025440335 seconds
+Caching Time: 7.700000423938036e-05 seconds
+Cost-based Optimization Time: 9.419996058568358e-05 seconds
+Cost-based Query Optimization Time: 0.00011530000483617187 seconds
+Heuristic Optimization Time: 4.4000043999403715e-05 seconds
+Heuristic Query Optimization Time: 6.549997488036752e-05 seconds
+Iteration 42
+populating
+Indexing Time: 0.00026870000874623656 seconds
+Normalization to 2NF Time: 0.04158910003025085 seconds
+Horizontal Partitioning Time: 0.0002846000134013593 seconds
+Caching Time: 7.760000880807638e-05 seconds
+Cost-based Optimization Time: 9.36999567784369e-05 seconds
+Cost-based Query Optimization Time: 0.00011480000102892518 seconds
+Heuristic Optimization Time: 4.47999918833375e-05 seconds
+Heuristic Query Optimization Time: 6.640003994107246e-05 seconds
+Iteration 43
+populating
+Indexing Time: 0.0003396999672986567 seconds
+Normalization to 2NF Time: 0.04240669996943325 seconds
+Horizontal Partitioning Time: 0.0002816000487655401 seconds
+Caching Time: 7.599999662488699e-05 seconds
+Cost-based Optimization Time: 9.370001498609781e-05 seconds
+Cost-based Query Optimization Time: 0.00011389999417588115 seconds
+Heuristic Optimization Time: 4.549999721348286e-05 seconds
+Heuristic Query Optimization Time: 6.689998554065824e-05 seconds
+Iteration 44
+populating
+Indexing Time: 0.00021879997802898288 seconds
+Normalization to 2NF Time: 0.04278730001533404 seconds
+Horizontal Partitioning Time: 0.00028660002863034606 seconds
+Caching Time: 7.860001642256975e-05 seconds
+Cost-based Optimization Time: 9.480002336204052e-05 seconds
+Cost-based Query Optimization Time: 0.00011510000331327319 seconds
+Heuristic Optimization Time: 4.469999112188816e-05 seconds
+Heuristic Query Optimization Time: 6.610003765672445e-05 seconds
+Iteration 45
+populating
+Indexing Time: 0.0002161000156775117 seconds
+Normalization to 2NF Time: 0.044124400010332465 seconds
+Horizontal Partitioning Time: 0.0002888999879360199 seconds
+Caching Time: 7.670000195503235e-05 seconds
+Cost-based Optimization Time: 9.469996439293027e-05 seconds
+Cost-based Query Optimization Time: 0.00011530000483617187 seconds
+Heuristic Optimization Time: 4.5199994929134846e-05 seconds
+Heuristic Query Optimization Time: 6.699998630210757e-05 seconds
+Iteration 46
+populating
+Indexing Time: 0.00022440002067014575 seconds
+Normalization to 2NF Time: 0.04315670003416017 seconds
+Horizontal Partitioning Time: 0.00028440001187846065 seconds
+Caching Time: 7.709994679316878e-05 seconds
+Cost-based Optimization Time: 9.529996896162629e-05 seconds
+Cost-based Query Optimization Time: 0.00011650001397356391 seconds
+Heuristic Optimization Time: 4.529999569058418e-05 seconds
+Heuristic Query Optimization Time: 6.769999163225293e-05 seconds
+Iteration 47
+populating
+Indexing Time: 0.0002364999963901937 seconds
+Normalization to 2NF Time: 0.045597299991641194 seconds
+Horizontal Partitioning Time: 0.0002893999917432666 seconds
+Caching Time: 7.809995440766215e-05 seconds
+Cost-based Optimization Time: 9.510002564638853e-05 seconds
+Cost-based Query Optimization Time: 0.00011659995652735233 seconds
+Heuristic Optimization Time: 4.469999112188816e-05 seconds
+Heuristic Query Optimization Time: 6.699998630210757e-05 seconds
+Iteration 48
+populating
+Indexing Time: 0.00021979998564347625 seconds
+Normalization to 2NF Time: 0.04398140002740547 seconds
+Horizontal Partitioning Time: 0.00029420002829283476 seconds
+Caching Time: 7.800001185387373e-05 seconds
+Cost-based Optimization Time: 9.899999713525176e-05 seconds
+Cost-based Query Optimization Time: 0.00012079998850822449 seconds
+Heuristic Optimization Time: 4.469999112188816e-05 seconds
+Heuristic Query Optimization Time: 6.660004146397114e-05 seconds
+Iteration 49
+populating
+Indexing Time: 0.00021460000425577164 seconds
+Normalization to 2NF Time: 0.04811219999101013 seconds
+Horizontal Partitioning Time: 0.00029090000316500664 seconds
+Caching Time: 7.730000652372837e-05 seconds
+Cost-based Optimization Time: 9.750004392117262e-05 seconds
+Cost-based Query Optimization Time: 0.00011899997480213642 seconds
+Heuristic Optimization Time: 4.4599990360438824e-05 seconds
+Heuristic Query Optimization Time: 6.660004146397114e-05 seconds
+Iteration 50
+populating
+Indexing Time: 0.00027600000612437725 seconds
+Normalization to 2NF Time: 0.04118110000854358 seconds
+Horizontal Partitioning Time: 0.00028490001568570733 seconds
+Caching Time: 8.019997039809823e-05 seconds
+Cost-based Optimization Time: 9.409995982423425e-05 seconds
+Cost-based Query Optimization Time: 0.00011550000635907054 seconds
+Heuristic Optimization Time: 4.6999950427562e-05 seconds
+Heuristic Query Optimization Time: 6.849999772384763e-05 seconds
+Iteration 51
+populating
+Indexing Time: 0.0002161000156775117 seconds
+Normalization to 2NF Time: 0.044459099997766316 seconds
+Horizontal Partitioning Time: 0.00028740003472194076 seconds
+Caching Time: 7.780001033097506e-05 seconds
+Cost-based Optimization Time: 9.380001574754715e-05 seconds
+Cost-based Query Optimization Time: 0.00011510000331327319 seconds
+Heuristic Optimization Time: 4.5199994929134846e-05 seconds
+Heuristic Query Optimization Time: 6.719998782500625e-05 seconds
+Iteration 52
+populating
+Indexing Time: 0.0004202999989502132 seconds
+Normalization to 2NF Time: 0.04437789996154606 seconds
+Horizontal Partitioning Time: 0.00028789998032152653 seconds
+Caching Time: 7.700000423938036e-05 seconds
+Cost-based Optimization Time: 9.469996439293027e-05 seconds
+Cost-based Query Optimization Time: 0.00011560000712051988 seconds
+Heuristic Optimization Time: 4.47999918833375e-05 seconds
+Heuristic Query Optimization Time: 6.819999543949962e-05 seconds
+Iteration 53
+populating
+Indexing Time: 0.00023830001009628177 seconds
+Normalization to 2NF Time: 0.04567680001491681 seconds
+Horizontal Partitioning Time: 0.0002829000004567206 seconds
+Caching Time: 7.660000119358301e-05 seconds
+Cost-based Optimization Time: 9.609997505322099e-05 seconds
+Cost-based Query Optimization Time: 0.00012009998317807913 seconds
+Heuristic Optimization Time: 4.4899992644786835e-05 seconds
+Heuristic Query Optimization Time: 6.719998782500625e-05 seconds
+Iteration 54
+populating
+Indexing Time: 0.0002316000172868371 seconds
+Normalization to 2NF Time: 0.042634000012185425 seconds
+Horizontal Partitioning Time: 0.000291000003926456 seconds
+Caching Time: 7.670000195503235e-05 seconds
+Cost-based Optimization Time: 9.430001955479383e-05 seconds
+Cost-based Query Optimization Time: 0.00011530000483617187 seconds
+Heuristic Optimization Time: 4.5599997974932194e-05 seconds
+Heuristic Query Optimization Time: 6.780005060136318e-05 seconds
+Iteration 55
+populating
+Indexing Time: 0.00022550002904608846 seconds
+Normalization to 2NF Time: 0.04251350002596155 seconds
+Horizontal Partitioning Time: 0.00030800001695752144 seconds
+Caching Time: 8.060003165155649e-05 seconds
+Cost-based Optimization Time: 0.00010190001921728253 seconds
+Cost-based Query Optimization Time: 0.00012500002048909664 seconds
+Heuristic Optimization Time: 4.700000863522291e-05 seconds
+Heuristic Query Optimization Time: 7.130001904442906e-05 seconds
+Iteration 56
+populating
+Indexing Time: 0.0005222000181674957 seconds
+Normalization to 2NF Time: 0.0819294000393711 seconds
+Horizontal Partitioning Time: 0.0017321999766863883 seconds
+Caching Time: 0.0001246000174432993 seconds
+Cost-based Optimization Time: 0.00021219998598098755 seconds
+Cost-based Query Optimization Time: 0.0003445000038482249 seconds
+Heuristic Optimization Time: 9.950000094249845e-05 seconds
+Heuristic Query Optimization Time: 0.00014260003808885813 seconds
+Iteration 57
+populating
+Indexing Time: 0.00031400000443682075 seconds
+Normalization to 2NF Time: 0.049806300026830286 seconds
+Horizontal Partitioning Time: 0.00043759995605796576 seconds
+Caching Time: 0.00012769998284056783 seconds
+Cost-based Optimization Time: 0.00014019996160641313 seconds
+Cost-based Query Optimization Time: 0.00017369998386129737 seconds
+Heuristic Optimization Time: 6.799999391660094e-05 seconds
+Heuristic Query Optimization Time: 0.00010750000365078449 seconds
+Iteration 58
+populating
+Indexing Time: 0.00023930001771077514 seconds
+Normalization to 2NF Time: 0.04274280002573505 seconds
+Horizontal Partitioning Time: 0.00028600002406165004 seconds
+Caching Time: 7.720000576227903e-05 seconds
+Cost-based Optimization Time: 9.550002869218588e-05 seconds
+Cost-based Query Optimization Time: 0.0001162000116892159 seconds
+Heuristic Optimization Time: 4.579999949783087e-05 seconds
+Heuristic Query Optimization Time: 6.729998858645558e-05 seconds
+Iteration 59
+populating
+Indexing Time: 0.00023570004850625992 seconds
+Normalization to 2NF Time: 0.043359900009818375 seconds
+Horizontal Partitioning Time: 0.00028979999478906393 seconds
+Caching Time: 7.830001413822174e-05 seconds
+Cost-based Optimization Time: 9.469996439293027e-05 seconds
+Cost-based Query Optimization Time: 0.00011600001016631722 seconds
+Heuristic Optimization Time: 4.5599997974932194e-05 seconds
+Heuristic Query Optimization Time: 6.729998858645558e-05 seconds
+Iteration 60
+populating
+Indexing Time: 0.0002443999983370304 seconds
+Normalization to 2NF Time: 0.0451314999954775 seconds
+Horizontal Partitioning Time: 0.0004316999693401158 seconds
+Caching Time: 8.830003207549453e-05 seconds
+Cost-based Optimization Time: 9.929999941959977e-05 seconds
+Cost-based Query Optimization Time: 0.00012209999840706587 seconds
+Heuristic Optimization Time: 5.13000413775444e-05 seconds
+Heuristic Query Optimization Time: 7.890001870691776e-05 seconds
+Iteration 61
+populating
+Indexing Time: 0.00021650001872330904 seconds
+Normalization to 2NF Time: 0.04489070002455264 seconds
+Horizontal Partitioning Time: 0.0002908000024035573 seconds
+Caching Time: 7.830001413822174e-05 seconds
+Cost-based Optimization Time: 9.549997048452497e-05 seconds
+Cost-based Query Optimization Time: 0.00011660001473501325 seconds
+Heuristic Optimization Time: 4.549999721348286e-05 seconds
+Heuristic Query Optimization Time: 6.9500005338341e-05 seconds
+Iteration 62
+populating
+Indexing Time: 0.00024359999224543571 seconds
+Normalization to 2NF Time: 0.04329230001894757 seconds
+Horizontal Partitioning Time: 0.00029009999707341194 seconds
+Caching Time: 7.770000956952572e-05 seconds
+Cost-based Optimization Time: 9.849999332800508e-05 seconds
+Cost-based Query Optimization Time: 0.00011950003681704402 seconds
+Heuristic Optimization Time: 4.469999112188816e-05 seconds
+Heuristic Query Optimization Time: 6.749999010935426e-05 seconds
+Iteration 63
+populating
+Indexing Time: 0.0002995000104419887 seconds
+Normalization to 2NF Time: 0.04301870003109798 seconds
+Horizontal Partitioning Time: 0.00028600002406165004 seconds
+Caching Time: 7.700000423938036e-05 seconds
+Cost-based Optimization Time: 9.450002107769251e-05 seconds
+Cost-based Query Optimization Time: 0.00011520000407472253 seconds
+Heuristic Optimization Time: 4.5199994929134846e-05 seconds
+Heuristic Query Optimization Time: 6.710004527121782e-05 seconds
+Iteration 64
+populating
+Indexing Time: 0.000222400005441159 seconds
+Normalization to 2NF Time: 0.04691889998503029 seconds
+Horizontal Partitioning Time: 0.00045709998812526464 seconds
+Caching Time: 0.00011939997784793377 seconds
+Cost-based Optimization Time: 0.00012889999197795987 seconds
+Cost-based Query Optimization Time: 0.00016090000281110406 seconds
+Heuristic Optimization Time: 6.19000056758523e-05 seconds
+Heuristic Query Optimization Time: 9.510002564638853e-05 seconds
+Iteration 65
+populating
+Indexing Time: 0.00021299999207258224 seconds
+Normalization to 2NF Time: 0.045617800031322986 seconds
+Horizontal Partitioning Time: 0.00028770003700628877 seconds
+Caching Time: 7.830001413822174e-05 seconds
+Cost-based Optimization Time: 9.980000322684646e-05 seconds
+Cost-based Query Optimization Time: 0.00012050004443153739 seconds
+Heuristic Optimization Time: 4.509999416768551e-05 seconds
+Heuristic Query Optimization Time: 6.689998554065824e-05 seconds
+Iteration 66
+populating
+Indexing Time: 0.00022440002067014575 seconds
+Normalization to 2NF Time: 0.044567300006747246 seconds
+Horizontal Partitioning Time: 0.0002855999628081918 seconds
+Caching Time: 7.639999967068434e-05 seconds
+Cost-based Optimization Time: 9.460002183914185e-05 seconds
+Cost-based Query Optimization Time: 0.00011530000483617187 seconds
+Heuristic Optimization Time: 4.469999112188816e-05 seconds
+Heuristic Query Optimization Time: 6.629998097196221e-05 seconds
+Iteration 67
+populating
+Indexing Time: 0.00022250000620260835 seconds
+Normalization to 2NF Time: 0.04296960000647232 seconds
+Horizontal Partitioning Time: 0.0003323000273667276 seconds
+Caching Time: 8.279999019578099e-05 seconds
+Cost-based Optimization Time: 9.739998495206237e-05 seconds
+Cost-based Query Optimization Time: 0.00012150005204603076 seconds
+Heuristic Optimization Time: 4.539999645203352e-05 seconds
+Heuristic Query Optimization Time: 6.930000381544232e-05 seconds
+Iteration 68
+populating
+Indexing Time: 0.00021250004647299647 seconds
+Normalization to 2NF Time: 0.04596730001503602 seconds
+Horizontal Partitioning Time: 0.0002859000233002007 seconds
+Caching Time: 7.599999662488699e-05 seconds
+Cost-based Optimization Time: 9.359995601698756e-05 seconds
+Cost-based Query Optimization Time: 0.00011590000940486789 seconds
+Heuristic Optimization Time: 4.499999340623617e-05 seconds
+Heuristic Query Optimization Time: 6.689998554065824e-05 seconds
+Iteration 69
+populating
+Indexing Time: 0.00021540001034736633 seconds
+Normalization to 2NF Time: 0.047514600038994104 seconds
+Horizontal Partitioning Time: 0.00028760003624483943 seconds
+Caching Time: 7.800001185387373e-05 seconds
+Cost-based Optimization Time: 9.360001422464848e-05 seconds
+Cost-based Query Optimization Time: 0.00011580000864341855 seconds
+Heuristic Optimization Time: 4.770001396536827e-05 seconds
+Heuristic Query Optimization Time: 6.940000457689166e-05 seconds
+Iteration 70
+populating
+Indexing Time: 0.0002623000182211399 seconds
+Normalization to 2NF Time: 0.04410300002200529 seconds
+Horizontal Partitioning Time: 0.0004931999719701707 seconds
+Caching Time: 0.00011889997404068708 seconds
+Cost-based Optimization Time: 0.00014720001490786672 seconds
+Cost-based Query Optimization Time: 0.00018900004215538502 seconds
+Heuristic Optimization Time: 7.459998596459627e-05 seconds
+Heuristic Query Optimization Time: 0.00011000002268701792 seconds
+Iteration 71
+populating
+Indexing Time: 0.0002294000005349517 seconds
+Normalization to 2NF Time: 0.044528900005389005 seconds
+Horizontal Partitioning Time: 0.00028420001035556197 seconds
+Caching Time: 7.71000050008297e-05 seconds
+Cost-based Optimization Time: 9.619997581467032e-05 seconds
+Cost-based Query Optimization Time: 0.0001173000200651586 seconds
+Heuristic Optimization Time: 4.449998959898949e-05 seconds
+Heuristic Query Optimization Time: 6.649998249486089e-05 seconds
+Iteration 72
+populating
+Indexing Time: 0.00021059997379779816 seconds
+Normalization to 2NF Time: 0.04239610000513494 seconds
+Horizontal Partitioning Time: 0.000285100017208606 seconds
+Caching Time: 7.700000423938036e-05 seconds
+Cost-based Optimization Time: 9.390001650899649e-05 seconds
+Cost-based Query Optimization Time: 0.00011449999874457717 seconds
+Heuristic Optimization Time: 4.4700049329549074e-05 seconds
+Heuristic Query Optimization Time: 6.689998554065824e-05 seconds
+Iteration 73
+populating
+Indexing Time: 0.00035940000088885427 seconds
+Normalization to 2NF Time: 0.044374699995387346 seconds
+Horizontal Partitioning Time: 0.00029120000544935465 seconds
+Caching Time: 7.910002022981644e-05 seconds
+Cost-based Optimization Time: 9.620003402233124e-05 seconds
+Cost-based Query Optimization Time: 0.00011969998013228178 seconds
+Heuristic Optimization Time: 4.610000178217888e-05 seconds
+Heuristic Query Optimization Time: 6.829999620094895e-05 seconds
+Iteration 74
+populating
+Indexing Time: 0.00023120001424103975 seconds
+Normalization to 2NF Time: 0.04299909999826923 seconds
+Horizontal Partitioning Time: 0.00028639996889978647 seconds
+Caching Time: 7.579999510198832e-05 seconds
+Cost-based Optimization Time: 9.55999712459743e-05 seconds
+Cost-based Query Optimization Time: 0.0001170000177808106 seconds
+Heuristic Optimization Time: 4.579999949783087e-05 seconds
+Heuristic Query Optimization Time: 6.86999992467463e-05 seconds
+Iteration 75
+populating
+Indexing Time: 0.0002182999742217362 seconds
+Normalization to 2NF Time: 0.04520430002594367 seconds
+Horizontal Partitioning Time: 0.00028770003700628877 seconds
+Caching Time: 7.760000880807638e-05 seconds
+Cost-based Optimization Time: 9.700004011392593e-05 seconds
+Cost-based Query Optimization Time: 0.00011939997784793377 seconds
+Heuristic Optimization Time: 4.47999918833375e-05 seconds
+Heuristic Query Optimization Time: 6.680004298686981e-05 seconds
+Iteration 76
+populating
+Indexing Time: 0.00022490002447739244 seconds
+Normalization to 2NF Time: 0.04446609999286011 seconds
+Horizontal Partitioning Time: 0.00028520001797005534 seconds
+Caching Time: 7.850001566112041e-05 seconds
+Cost-based Optimization Time: 9.659997886046767e-05 seconds
+Cost-based Query Optimization Time: 0.00011720001930370927 seconds
+Heuristic Optimization Time: 4.4899992644786835e-05 seconds
+Heuristic Query Optimization Time: 6.65000407025218e-05 seconds
+Iteration 77
+populating
+Indexing Time: 0.00020680000307038426 seconds
+Normalization to 2NF Time: 0.04546270001446828 seconds
+Horizontal Partitioning Time: 0.00041829998372122645 seconds
+Caching Time: 8.100003469735384e-05 seconds
+Cost-based Optimization Time: 9.729998419061303e-05 seconds
+Cost-based Query Optimization Time: 0.0001221999991685152 seconds
+Heuristic Optimization Time: 4.710000939667225e-05 seconds
+Heuristic Query Optimization Time: 7.14000198058784e-05 seconds
+Iteration 78
+populating
+Indexing Time: 0.00023229996440932155 seconds
+Normalization to 2NF Time: 0.04453559999819845 seconds
+Horizontal Partitioning Time: 0.0002872000331990421 seconds
+Caching Time: 7.850001566112041e-05 seconds
+Cost-based Optimization Time: 9.649997809901834e-05 seconds
+Cost-based Query Optimization Time: 0.00011790002463385463 seconds
+Heuristic Optimization Time: 4.700000863522291e-05 seconds
+Heuristic Query Optimization Time: 6.960000609979033e-05 seconds
+Iteration 79
+populating
+Indexing Time: 0.0002573999809101224 seconds
+Normalization to 2NF Time: 0.044476899958681315 seconds
+Horizontal Partitioning Time: 0.0002921999548561871 seconds
+Caching Time: 7.760000880807638e-05 seconds
+Cost-based Optimization Time: 9.440002031624317e-05 seconds
+Cost-based Query Optimization Time: 0.00011450005695223808 seconds
+Heuristic Optimization Time: 4.47999918833375e-05 seconds
+Heuristic Query Optimization Time: 6.59999786876142e-05 seconds
+Iteration 80
+populating
+Indexing Time: 0.00029009999707341194 seconds
+Normalization to 2NF Time: 0.045330199995078146 seconds
+Horizontal Partitioning Time: 0.0002905000001192093 seconds
+Caching Time: 7.650000043213367e-05 seconds
+Cost-based Optimization Time: 9.410001803189516e-05 seconds
+Cost-based Query Optimization Time: 0.0001154000055976212 seconds
+Heuristic Optimization Time: 4.539999645203352e-05 seconds
+Heuristic Query Optimization Time: 6.740004755556583e-05 seconds
+Iteration 81
+populating
+Indexing Time: 0.00019270001212134957 seconds
+Normalization to 2NF Time: 0.04348910000408068 seconds
+Horizontal Partitioning Time: 0.0002883000415749848 seconds
+Caching Time: 7.680000271648169e-05 seconds
+Cost-based Optimization Time: 9.350001346319914e-05 seconds
+Cost-based Query Optimization Time: 0.00011449999874457717 seconds
+Heuristic Optimization Time: 4.5199994929134846e-05 seconds
+Heuristic Query Optimization Time: 6.719998782500625e-05 seconds
+Iteration 82
+populating
+Indexing Time: 0.00021599995670840144 seconds
+Normalization to 2NF Time: 0.04318920004880056 seconds
+Horizontal Partitioning Time: 0.0002837000065483153 seconds
+Caching Time: 7.800001185387373e-05 seconds
+Cost-based Optimization Time: 9.700004011392593e-05 seconds
+Cost-based Query Optimization Time: 0.0001183999702334404 seconds
+Heuristic Optimization Time: 4.740001168102026e-05 seconds
+Heuristic Query Optimization Time: 6.960000609979033e-05 seconds
+Iteration 83
+populating
+Indexing Time: 0.00020409998251125216 seconds
+Normalization to 2NF Time: 0.051982900011353195 seconds
+Horizontal Partitioning Time: 0.00028979999478906393 seconds
+Caching Time: 7.949996506795287e-05 seconds
+Cost-based Optimization Time: 0.00013930001296103 seconds
+Cost-based Query Optimization Time: 0.0001642999704927206 seconds
+Heuristic Optimization Time: 8.510000770911574e-05 seconds
+Heuristic Query Optimization Time: 0.00012969999806955457 seconds
+Iteration 84
+populating
+Indexing Time: 0.00021840003319084644 seconds
+Normalization to 2NF Time: 0.043204500048886985 seconds
+Horizontal Partitioning Time: 0.0002924000145867467 seconds
+Caching Time: 7.740000728517771e-05 seconds
+Cost-based Optimization Time: 0.00012099999003112316 seconds
+Cost-based Query Optimization Time: 0.00014190003275871277 seconds
+Heuristic Optimization Time: 4.5900000259280205e-05 seconds
+Heuristic Query Optimization Time: 6.930000381544232e-05 seconds
+Iteration 85
+populating
+Indexing Time: 0.00023659999715164304 seconds
+Normalization to 2NF Time: 0.04177219996927306 seconds
+Horizontal Partitioning Time: 0.0002894999925047159 seconds
+Caching Time: 7.700000423938036e-05 seconds
+Cost-based Optimization Time: 9.499996667727828e-05 seconds
+Cost-based Query Optimization Time: 0.0001162000116892159 seconds
+Heuristic Optimization Time: 4.529999569058418e-05 seconds
+Heuristic Query Optimization Time: 6.669998401775956e-05 seconds
+Iteration 86
+populating
+Indexing Time: 0.00021410000044852495 seconds
+Normalization to 2NF Time: 0.04272840003250167 seconds
+Horizontal Partitioning Time: 0.00028929999098181725 seconds
+Caching Time: 7.660000119358301e-05 seconds
+Cost-based Optimization Time: 9.520002640783787e-05 seconds
+Cost-based Query Optimization Time: 0.00011639995500445366 seconds
+Heuristic Optimization Time: 4.5199994929134846e-05 seconds
+Heuristic Query Optimization Time: 6.739998934790492e-05 seconds
+Iteration 87
+populating
+Indexing Time: 0.00022119999630376697 seconds
+Normalization to 2NF Time: 0.04394290002528578 seconds
+Horizontal Partitioning Time: 0.0002837000065483153 seconds
+Caching Time: 7.740000728517771e-05 seconds
+Cost-based Optimization Time: 9.489996591582894e-05 seconds
+Cost-based Query Optimization Time: 0.00011530000483617187 seconds
+Heuristic Optimization Time: 4.490005085244775e-05 seconds
+Heuristic Query Optimization Time: 6.689998554065824e-05 seconds
+Iteration 88
+populating
+Indexing Time: 0.00020830001449212432 seconds
+Normalization to 2NF Time: 0.04357550002168864 seconds
+Horizontal Partitioning Time: 0.00028450001263991 seconds
+Caching Time: 7.71000050008297e-05 seconds
+Cost-based Optimization Time: 9.600003249943256e-05 seconds
+Cost-based Query Optimization Time: 0.000116499955765903 seconds
+Heuristic Optimization Time: 4.449998959898949e-05 seconds
+Heuristic Query Optimization Time: 6.59999786876142e-05 seconds
+Iteration 89
+populating
+Indexing Time: 0.00021389999892562628 seconds
+Normalization to 2NF Time: 0.04458410001825541 seconds
+Horizontal Partitioning Time: 0.00029990001348778605 seconds
+Caching Time: 7.84999574534595e-05 seconds
+Cost-based Optimization Time: 9.430001955479383e-05 seconds
+Cost-based Query Optimization Time: 0.0001154000055976212 seconds
+Heuristic Optimization Time: 4.509999416768551e-05 seconds
+Heuristic Query Optimization Time: 6.669998401775956e-05 seconds
+Iteration 90
+populating
+Indexing Time: 0.00019419996533542871 seconds
+Normalization to 2NF Time: 0.043349299987312406 seconds
+Horizontal Partitioning Time: 0.000285100017208606 seconds
+Caching Time: 8.059997344389558e-05 seconds
+Cost-based Optimization Time: 9.480002336204052e-05 seconds
+Cost-based Query Optimization Time: 0.00011560000712051988 seconds
+Heuristic Optimization Time: 4.529999569058418e-05 seconds
+Heuristic Query Optimization Time: 6.660004146397114e-05 seconds
+Iteration 91
+populating
+Indexing Time: 0.00023249996593222022 seconds
+Normalization to 2NF Time: 0.047358900017570704 seconds
+Horizontal Partitioning Time: 0.0002940000267699361 seconds
+Caching Time: 7.90000194683671e-05 seconds
+Cost-based Optimization Time: 9.469996439293027e-05 seconds
+Cost-based Query Optimization Time: 0.00011600001016631722 seconds
+Heuristic Optimization Time: 4.669994814321399e-05 seconds
+Heuristic Query Optimization Time: 6.920000305399299e-05 seconds
+Iteration 92
+populating
+Indexing Time: 0.00021790002938359976 seconds
+Normalization to 2NF Time: 0.04582860000664368 seconds
+Horizontal Partitioning Time: 0.00029009999707341194 seconds
+Caching Time: 7.810001261532307e-05 seconds
+Cost-based Optimization Time: 9.74999857135117e-05 seconds
+Cost-based Query Optimization Time: 0.00011869997251778841 seconds
+Heuristic Optimization Time: 4.529999569058418e-05 seconds
+Heuristic Query Optimization Time: 6.749999010935426e-05 seconds
+Iteration 93
+populating
+Indexing Time: 0.00022079999325796962 seconds
+Normalization to 2NF Time: 0.04345070000272244 seconds
+Horizontal Partitioning Time: 0.000292200013063848 seconds
+Caching Time: 7.609999738633633e-05 seconds
+Cost-based Optimization Time: 9.450002107769251e-05 seconds
+Cost-based Query Optimization Time: 0.00011500000255182385 seconds
+Heuristic Optimization Time: 4.529999569058418e-05 seconds
+Heuristic Query Optimization Time: 6.670004222542048e-05 seconds
+Iteration 94
+populating
+Indexing Time: 0.00021129997912794352 seconds
+Normalization to 2NF Time: 0.04660359997069463 seconds
+Horizontal Partitioning Time: 0.00030889996560290456 seconds
+Caching Time: 7.730000652372837e-05 seconds
+Cost-based Optimization Time: 9.520002640783787e-05 seconds
+Cost-based Query Optimization Time: 0.00011859997175633907 seconds
+Heuristic Optimization Time: 4.579999949783087e-05 seconds
+Heuristic Query Optimization Time: 6.890000076964498e-05 seconds
+Iteration 95
+populating
+Indexing Time: 0.00021630001720041037 seconds
+Normalization to 2NF Time: 0.045264000014867634 seconds
+Horizontal Partitioning Time: 0.00034229998709633946 seconds
+Caching Time: 8.709996473044157e-05 seconds
+Cost-based Optimization Time: 0.00010200001997873187 seconds
+Cost-based Query Optimization Time: 0.00012449995847418904 seconds
+Heuristic Optimization Time: 4.870002157986164e-05 seconds
+Heuristic Query Optimization Time: 7.420004112645984e-05 seconds
+Iteration 96
+populating
+Indexing Time: 0.0002232000115327537 seconds
+Normalization to 2NF Time: 0.04383649997180328 seconds
+Horizontal Partitioning Time: 0.0002899999963119626 seconds
+Caching Time: 7.699994603171945e-05 seconds
+Cost-based Optimization Time: 9.410001803189516e-05 seconds
+Cost-based Query Optimization Time: 0.0001145999995060265 seconds
+Heuristic Optimization Time: 4.5000051613897085e-05 seconds
+Heuristic Query Optimization Time: 6.669998401775956e-05 seconds
+Iteration 97
+populating
+Indexing Time: 0.00021349999587982893 seconds
+Normalization to 2NF Time: 0.04373679996933788 seconds
+Horizontal Partitioning Time: 0.00028629996813833714 seconds
+Caching Time: 8.030002936720848e-05 seconds
+Cost-based Optimization Time: 9.589997353032231e-05 seconds
+Cost-based Query Optimization Time: 0.00011640001321211457 seconds
+Heuristic Optimization Time: 4.5000051613897085e-05 seconds
+Heuristic Query Optimization Time: 6.67999847792089e-05 seconds
+Iteration 98
+populating
+Indexing Time: 0.00024079997092485428 seconds
+Normalization to 2NF Time: 0.04645559994969517 seconds
+Horizontal Partitioning Time: 0.0002874999772757292 seconds
+Caching Time: 7.940002251416445e-05 seconds
+Cost-based Optimization Time: 0.00011550000635907054 seconds
+Cost-based Query Optimization Time: 0.0001419999753125012 seconds
+Heuristic Optimization Time: 5.2799994591623545e-05 seconds
+Heuristic Query Optimization Time: 8.589995559304953e-05 seconds
+Iteration 99
+populating
+Indexing Time: 0.00022200000239536166 seconds
+Normalization to 2NF Time: 0.045632399967871606 seconds
+Horizontal Partitioning Time: 0.0002812000457197428 seconds
+Caching Time: 8.17000400274992e-05 seconds
+Cost-based Optimization Time: 9.790004696696997e-05 seconds
+Cost-based Query Optimization Time: 0.00012039998546242714 seconds
+Heuristic Optimization Time: 4.529999569058418e-05 seconds
+Heuristic Query Optimization Time: 7.160002132877707e-05 seconds
+Iteration 100
+populating
+Indexing Time: 0.00022420001914724708 seconds
+Normalization to 2NF Time: 0.04272990004392341 seconds
+Horizontal Partitioning Time: 0.0003188000409863889 seconds
+Caching Time: 7.720000576227903e-05 seconds
+Cost-based Optimization Time: 9.570003021508455e-05 seconds
+Cost-based Query Optimization Time: 0.0001170000177808106 seconds
+Heuristic Optimization Time: 4.549999721348286e-05 seconds
+Heuristic Query Optimization Time: 6.690004374831915e-05 seconds
