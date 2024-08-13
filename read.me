@@ -1,0 +1,59 @@
+Database Benchmarking and Optimization Techniques
+Overview
+This project is designed to explore various techniques to enhance the performance of database operations. It demonstrates how to apply indexing, normalization, partitioning, caching, and query optimization strategies within an SQLite database. The project aims to benchmark these techniques by measuring the time taken to perform specific database operations and optimizing queries in different scenarios.
+
+Prerequisites
+Python 3.x
+SQLite3
+Project Structure
+DatabaseConnection Class:
+
+Provides a static method to establish a connection to the SQLite database.
+IndexingTechniques Class:
+
+Implements methods to create and drop indexes on database tables to speed up query performance.
+NormalizationTechniques Class:
+
+Contains methods to normalize data to 2nd Normal Form (2NF). There is also commented-out code for normalizing to 3rd Normal Form (3NF).
+PartitioningTechniques Class:
+
+Includes methods for horizontal and vertical partitioning of tables to improve query performance by reducing the amount of data processed.
+QueryOptimizationTechniques Class:
+
+Implements cost-based and heuristic-based query optimization techniques to enhance the efficiency of SQL queries.
+CachingMechanisms Class:
+
+Provides basic caching functionality to store and retrieve query results, reducing the need to re-execute queries.
+DatabaseBenchmarking Class:
+
+Manages the setup, population, execution, and benchmarking of the database operations. It includes methods for:
+Setting up the database schema.
+Populating the database with random data.
+Executing queries and applying various optimization techniques.
+Benchmarking the performance of each technique.
+How to Run the Project
+Setup:
+
+Clone the repository or download the script.
+Execute Benchmarking:
+
+Run the script using the command: python script_name.py
+The script will:
+Set up the database.
+Populate the database with random employee records.
+Apply various techniques (indexing, normalization, partitioning, caching, and query optimization) across multiple iterations.
+Measure and print the time taken for each technique during each iteration.
+Clean up by removing the test database after benchmarking.
+Benchmarking Process:
+
+The script runs 100 iterations where it populates the database, applies optimization techniques, and benchmarks their performance.
+Each iteration outputs the time taken for:
+Indexing
+Normalization to 2NF
+Horizontal Partitioning
+Caching
+Cost-based Query Optimization
+Heuristic Query Optimization
+Cleanup:
+
+After benchmarking, the script automatically deletes the test.db database file to keep your environment clean.
